@@ -2,4 +2,10 @@
 
 membuat aplikasi galeri
 
-harus npm install dulu di folder backend dan frontend!
+### frontend:
+1. npm install
+2. npm run dev
+
+### backend:
+1. npm install
+2. npm start
